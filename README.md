@@ -1,4 +1,4 @@
-# protein_nucleic_acid
+# Analysis of protein nucleic-acid systems
 
 This repository includes analysis scripts for RMSD, RMSF, distance and contact maps, and Watson-Crick hydrogen bond calculations for protein-nucleic acid molecular dynamics simulation trajectories. All scripts were written in Python and used MDAnalysis module.
 
