@@ -24,6 +24,8 @@ python contacts_mda.py --traj_path=trajectorydir --psf_path=psfdir --sela="prote
 
 python hbonds_mda.py --traj_path=trajectorydir --psf_path=psfdir --out_path=hbond.dat
 
+python base_distance_mda.py --traj_path=trajectorydir --psf_path=psfdir --out_path=base_distance.dat
+
 *** Citation
 
 Adan Gallardo, Brandon Bogart, Bercem Dutagaci, Protein-Nucleic Acid Interactions for RNA Polymerase II Elongation Factors by Molecular Dynamics Simulations, BioRxiv (2022), doi: https://doi.org/10.1101/2022.01.28.478254
